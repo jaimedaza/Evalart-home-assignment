@@ -25,7 +25,7 @@ export const FeatureCard = ({
         {imageUrl ? (
           <Image src={imageUrl} alt="image alt text" borderRadius="lg" />
         ) : (
-          <Spinner color="#01478f" size="xl" />
+          <Spinner color="#01478f" size="xl" data-testid="spinner" />
         )}
         <Stack mt="6" spacing="3">
           <Heading size="md">{title}</Heading>

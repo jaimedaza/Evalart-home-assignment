@@ -31,7 +31,6 @@ export const Accordion = ({ accordionItems }: AccordionProps) => {
   return (
     <>
       <ChakraAccordion
-        allowToggle
         allowMultiple
         border={`1px solid ${borderColor}`}
         borderRadius="8px"
