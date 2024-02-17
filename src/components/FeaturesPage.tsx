@@ -31,7 +31,7 @@ export const FeaturesPage = () => {
     };
 
     fetchData();
-  }, []);
+  }, [featureData]);
 
   return (
     <>
