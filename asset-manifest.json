@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Evalart-home-assignment/static/css/main.1b8c73e1.css",
+    "main.js": "/Evalart-home-assignment/static/js/main.94f33e6b.js",
+    "static/js/453.36add1a8.chunk.js": "/Evalart-home-assignment/static/js/453.36add1a8.chunk.js",
+    "static/media/slick.svg": "/Evalart-home-assignment/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Evalart-home-assignment/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Evalart-home-assignment/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Evalart-home-assignment/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Evalart-home-assignment/index.html",
+    "main.1b8c73e1.css.map": "/Evalart-home-assignment/static/css/main.1b8c73e1.css.map",
+    "main.94f33e6b.js.map": "/Evalart-home-assignment/static/js/main.94f33e6b.js.map",
+    "453.36add1a8.chunk.js.map": "/Evalart-home-assignment/static/js/453.36add1a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8c73e1.css",
+    "static/js/main.94f33e6b.js"
+  ]
+}
